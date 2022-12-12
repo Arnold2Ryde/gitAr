@@ -1,3 +1,5 @@
+
+Tämä rivi lisätty githubissa
 Nämä kirjotukset on githubituksesta lisätty
 <<<<<<< Updated upstream
 Tätä tekstiä ei oo paikallisessa  työhakemistossa.
