@@ -1,8 +1,7 @@
+Konfliktin ratkasu...
 Paikallinen rivi geditillä lisätty
+Tämä rivi lisätty githubissa
 Nämä kirjotukset on githubituksesta lisätty
-<<<<<<< Updated upstream
 Tätä tekstiä ei oo paikallisessa  työhakemistossa.
 kirjoittiAr
-=======
 Tämä teksti puuttuu githubista
->>>>>>> Stashed changes
