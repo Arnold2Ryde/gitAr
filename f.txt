@@ -1,1 +1,2 @@
 Nämä kirjotukset on githubituksesta lisätty
+Tätä tekstiä ei oo paikallisessa  työhakemistossa.
